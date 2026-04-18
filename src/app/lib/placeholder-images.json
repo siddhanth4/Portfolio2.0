@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "google-badge",
+      "description": "Google Certification Badge",
+      "imageUrl": "https://picsum.photos/seed/google-badge/200/200",
+      "imageHint": "google cloud badge"
+    },
+    {
+      "id": "microsoft-badge",
+      "description": "Microsoft Certification Badge",
+      "imageUrl": "https://picsum.photos/seed/ms-badge/200/200",
+      "imageHint": "microsoft security badge"
+    },
+    {
+      "id": "mckinsey-badge",
+      "description": "McKinsey Forward Program Badge",
+      "imageUrl": "https://picsum.photos/seed/mck-badge/200/200",
+      "imageHint": "mckinsey leadership badge"
+    },
+    {
+      "id": "opswat-badge",
+      "description": "OPSWAT Academy Badge",
+      "imageUrl": "https://picsum.photos/seed/opswat-badge/200/200",
+      "imageHint": "cybersecurity certification badge"
+    },
+    {
+      "id": "hacktober-badge",
+      "description": "HacktoberFest Holopin",
+      "imageUrl": "https://picsum.photos/seed/hack-badge/200/200",
+      "imageHint": "hacktoberfest open source badge"
+    }
+  ]
+}
