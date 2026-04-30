@@ -111,12 +111,13 @@ it’s about understanding them.`;
             </p>
 
             {/* STATS */}
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 pt-6">
+            <div className="grid grid-cols-2 sm:grid-cols-5 gap-6 pt-6">
               {[
                 { value: "9.12", label: "CGPA" },
                 { value: "4+", label: "PROJECTS" },
                 { value: "5+", label: "CERTS" },
                 { value: "3+", label: "ROLES" },
+                { value: "2", label: "RESEARCH" },
               ].map((item, i) => (
                 <div
                   key={i}
